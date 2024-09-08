@@ -68,7 +68,7 @@ nav ul li.active{
 background-color: #E6533C;
 border-radius: 50px;
 }
-.menu-icon{
+nav .menu-icon{
    display: none;
 }
 @media screen and ( max-width:425px ) {
