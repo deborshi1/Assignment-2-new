@@ -11,6 +11,12 @@ color: white;
 font-family: "Inter", sans-serif;
 font-style: normal;
 }
+.miama-font 
+{
+    font-family: 'Miama', sans-serif;
+font-size: 78px;
+font-weight: 900px;
+}
 .container{
     max-width: 1024px;
     margin: 0 auto;
